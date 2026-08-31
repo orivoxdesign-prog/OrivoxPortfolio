@@ -1,0 +1,12 @@
+# Fichiers système
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
+~*
+
+# Dossiers non nécessaires
+node_modules/
+.git/
